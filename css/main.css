@@ -65,14 +65,17 @@ footer {
 
   #column-1 {
     background-color: cornsilk;
+    width: 50%;
   }
 
   #column-2 {
     background-color: gainsboro;
+    width: 50%;
   }
 
   #column-3 {
     background-color: goldenrod;
+    width: 50%;
   }
 
   footer {
@@ -90,14 +93,17 @@ footer {
 
   #column-1 {
     background-color: darkblue;
+    width: 33.3%;
   }
 
   #column-2 {
     background-color: maroon;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color: grey;
+    width: 33.3%;
   }
 
   footer {
